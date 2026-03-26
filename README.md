@@ -1,5 +1,5 @@
 # Interview-Experience-Portal
 This is a jsp project where xampp local server is used in this to connect the data base.
-use 'xpdb' the databse file given
+use 'xpdb.sql' the databse file given
 download the main file inter-xp in netbeans and recomennded jdk-17 
-unzip and use it
+unzip and use it 
